@@ -33,7 +33,7 @@ export function sidebar() {
         <div class="sidebar-footer">
             <p class="copyright">
                 Copyright 2024
-                <a href="https://github.com/ash-codes18/">Ashmit Mehta</a>
+                <a href="https://github.com/DashingAdi/">Aditya Singh</a>
                 <img
                     src="./assets/images/tmdb-logo.svg"
                     width="130"
